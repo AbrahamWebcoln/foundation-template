@@ -1,0 +1,13 @@
+
+
+@media (min-width: 641px)
+{
+.top-bar {
+    background: none repeat scroll 0 0 #333333;
+    overflow: visible;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+
+}
